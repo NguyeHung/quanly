@@ -1,0 +1,8 @@
+F:\Học tập\Đức\Thiết kế web\Thực tập\thực tập donga\webdienmay\webdienmay\bin\webdienmay.dll
+F:\Học tập\Đức\Thiết kế web\Thực tập\thực tập donga\webdienmay\webdienmay\bin\webdienmay.pdb
+F:\Học tập\Đức\Thiết kế web\Thực tập\thực tập donga\webdienmay\webdienmay\obj\Debug\webdienmay.dll
+F:\Học tập\Đức\Thiết kế web\Thực tập\thực tập donga\webdienmay\webdienmay\obj\Debug\webdienmay.pdb
+E:\thuctap\webdienmay\webdienmay\bin\webdienmay.dll
+E:\thuctap\webdienmay\webdienmay\bin\webdienmay.pdb
+E:\thuctap\webdienmay\webdienmay\obj\Debug\webdienmay.dll
+E:\thuctap\webdienmay\webdienmay\obj\Debug\webdienmay.pdb

@@ -1,0 +1,71 @@
+﻿/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+.tabledn
+{
+    height:363px;
+    width:411px;
+    margin:auto;
+    background-color:#f7f7f7;
+}
+.tieude
+{  font-weight: bold;
+   text-align:center;
+   color:Black;
+   background-color:Gray;
+}
+.hinh
+{ 
+    background-repeat:no-repeat;
+    float:none;
+    height:96px;
+}
+.giua
+{
+    float:none;
+    width:358px;
+    margin:auto;
+    padding:20px;
+}
+.top
+{
+    padding-top:20px;
+    margin:auto;
+}
+.left
+{
+    padding-left:38px;
+}
+.bnt
+{
+    width:200px;
+    margin:auto;
+    padding:10px;
+    border-collapse:collapse;
+    padding-bottom:10px;
+}
